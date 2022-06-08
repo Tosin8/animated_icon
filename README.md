@@ -4,4 +4,5 @@
 
 
 
-## Getting Started
+
+Credit: Animation Flutter Gallery
